@@ -1,5 +1,6 @@
 # USA-Housing-Insights
 
+
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on the USA Housing dataset using Python. The objective is to understand housing price trends, identify important factors affecting house prices, and visualize relationships between variables.
 
@@ -61,3 +62,15 @@ The dataset contains information about housing characteristics and their corresp
 USA_Housing/
 │
 ├── USA Housing.ipynb
+├── USA_Housing.csv
+├── images/
+├── README.md
+└── requirements.txt
+```
+
+## Conclusion
+The analysis provides valuable insights into factors influencing housing prices in the USA. Income, room count, and population are among the most significant contributors to housing value prediction.
+
+## Author
+Muhammed Hafinsha M  
+B.Tech Artificial Intelligence & Data Science
